@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\bin\Debug\2.upisKorisnika-dijeliviBrojevi.exe.config
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\bin\Debug\2.upisKorisnika-dijeliviBrojevi.exe
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\bin\Debug\2.upisKorisnika-dijeliviBrojevi.pdb
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\obj\Debug\2.upisKorisnika-dijeliviBrojevi.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\obj\Debug\2.upisKorisnika-dijeliviBrojevi.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\obj\Debug\2.upisKorisnika-dijeliviBrojevi.exe
+C:\Users\denim\source\repos\2.upisKorisnika-dijeliviBrojevi\2.upisKorisnika-dijeliviBrojevi\obj\Debug\2.upisKorisnika-dijeliviBrojevi.pdb
